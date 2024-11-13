@@ -1,0 +1,18 @@
+{
+    "@context": "https://w3id.org/openbadges/v2",
+    "type": "Assertion",
+    "id": "https://thejeshgn.github.io/openbadge/thejeshgn-reader-badge.json",
+    "recipient":
+    {
+        "type": "email",
+        "hashed": false,
+        "identity": "jzhu@coursera.org"
+    },
+    "badge": "https://thejeshgn.github.io/openbadge/reader-badge.json",
+    "verification":
+    {
+        "type": "hosted"
+    },
+    "issuedOn": "2022-06-17T23:59:59Z",
+    "expires": "2030-06-30T23:59:59Z"
+}
