@@ -15,7 +15,8 @@
         "image": "https://jswzhu.github.io/open-badge/icon.png",
         "criteria": "https://www.coursera.org/articles",
         "issuer": {
-          "origin": "https://www.coursera.org/",
+            "type": "Issuer",
+          "url": "https://www.coursera.org/",
           "name": "Coursera"
         }
     },
