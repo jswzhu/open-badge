@@ -18,7 +18,7 @@
         "type": "BadgeClass",
         "description": "This ELP is created for Coursera badge integration test.",
         "issuer": {
-            "id": "https://www.coursera.org/api/v1/openbadge/v3/issuers/2e984659-4771-4042-a306-e17287c5fec9",
+            "id": "https://www.coursera.org/api/rest/v1/openbadge/v3/issuers/2e984659-4771-4042-a306-e17287c5fec9",
             "type": "Profile",
             "@context": "https://w3id.org/openbadges/v2",
             "email": "partner-support@coursera.org",
