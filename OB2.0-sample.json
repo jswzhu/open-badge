@@ -15,7 +15,6 @@
             "Risk Management",
             "Spreadsheet Software"
         ],
-        "id": "https://www.coursera.org/programs/badge-test-program-hoqdj/learning-path/coursera-badge-integration-udcyo",
         "type": "BadgeClass",
         "description": "This ELP is created for Coursera badge integration test.",
         "issuer": {
@@ -30,7 +29,6 @@
         },
         "@context": "https://w3id.org/openbadges/v2",
         "criteria": {
-            "id": "https://www.coursera.org/programs/badge-test-program-hoqdj/learning-path/coursera-badge-integration-udcyo",
             "@context": "https://w3id.org/openbadges/v2",
             "narrative": "Course: Ask Questions to Make Data-Driven Decisions https://www.coursera.org/learn/ask-questions-make-decisions
 Course: Play It Safe: Manage Security Risks https: //www.coursera.org/learn/manage-security-risks
