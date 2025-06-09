@@ -1,0 +1,10 @@
+{
+  "@context": "https://purl.imsglobal.org/spec/ob/v3p0/context-3.0.3.json",
+  "email": "partner-support@coursera.org",
+  "description": "Coursera provides universal access to the world's best education, partnering with top universities and organizations to offer courses online.",
+  "id": "https://jswzhu.github.io/open-badge/ob20-sample-issuer.json",
+  "image": "https://coursera-badge-assets.s3.us-east-1.amazonaws.com/coursera_issuer_image.png",
+  "name": "Coursera",
+  "type": "Issuer",
+  "url": "http://www.coursera.org"
+}
