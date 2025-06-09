@@ -41,8 +41,8 @@
     },
     "@context": "https://w3id.org/openbadges/v2",
     "recipient": {
-        "hashed": true,
-        "identity": "sha256$8d6d32ed5517ca4010cb232f9193b4940c61294a9fc8734ce337b0ea7af6c70c",
+        "hashed": false,
+        "identity": "jzhu@coursera.org",
         "type": "email"
     },
     "type": "Assertion",
