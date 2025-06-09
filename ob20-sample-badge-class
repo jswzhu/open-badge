@@ -1,0 +1,36 @@
+{
+"id": "https://jswzhu.github.io/open-badge/ob20-sample-badge-class.json"
+        "alignment": [],
+        "tags": [
+            "Audit",
+            "Computer Architecture",
+            "Deep Learning",
+            "Human Learning",
+            "Leadership And Management",
+            "Machine Learning",
+            "Planning",
+            "Problem Solving",
+            "Project Management",
+            "Risk Management",
+            "Spreadsheet Software"
+        ],
+        "type": "BadgeClass",
+        "description": "This ELP is created for Coursera badge integration test.",
+        "issuer": {
+            "id": "https://www.coursera.org/api/rest/v1/openbadge/v3/issuers/2e984659-4771-4042-a306-e17287c5fec9",
+            "type": "Issuer",
+            "@context": "https://w3id.org/openbadges/v2",
+            "email": "partner-support@coursera.org",
+            "description": "Coursera provides universal access to the world's best education, partnering with top universities and organizations to offer courses online.",
+            "image": "https://coursera-badge-assets.s3.us-east-1.amazonaws.com/coursera_issuer_image.png",
+            "url": "http://www.coursera.org",
+            "name": "Coursera"
+        },
+        "@context": "https://w3id.org/openbadges/v2",
+        "criteria": {
+            "@context": "https://w3id.org/openbadges/v2",
+            "narrative": "Course: Ask Questions to Make Data-Driven Decisions https://www.coursera.org/learn/ask-questions-make-decisions Course: Play It Safe: Manage Security Risks https: //www.coursera.org/learn/manage-security-risks Course: AI For Everyone https: //www.coursera.org/learn/ai-for-everyone"
+        },
+        "image": "https://coursera-badge-assets.s3.amazonaws.com/preview/23032ab107f3408a8016f665400f95a0.png",
+        "name": "Coursera Badge Integration"
+    }
