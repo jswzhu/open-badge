@@ -17,15 +17,15 @@
         "type": "BadgeClass",
         "description": "This ELP is created for Coursera badge integration test.",
         "issuer": {
-            "id": "https://jswzhu.github.io/open-badge/ob20-sample-issuer.json",
-            "type": "Issuer",
-            "@context": "https://w3id.org/openbadges/v2",
-            "email": "partner-support@coursera.org",
-            "description": "Coursera provides universal access to the world's best education, partnering with top universities and organizations to offer courses online.",
-            "image": "https://coursera-badge-assets.s3.us-east-1.amazonaws.com/coursera_issuer_image.png",
-            "url": "http://www.coursera.org",
-            "name": "Coursera"
-        },
+  "@context": "https://w3id.org/openbadges/v2",
+  "email": "partner-support@coursera.org",
+  "description": "Coursera provides universal access to the world's best education, partnering with top universities and organizations to offer courses online.",
+  "id": "https://www.coursera.org/api/rest/v1/openbadge/v2/issuers/2e984659-4771-4042-a306-e17287c5fec9",
+  "image": "https://coursera-badge-assets.s3.us-east-1.amazonaws.com/coursera_issuer_image.png",
+  "name": "Coursera",
+  "type": "Issuer",
+  "url": "http://www.coursera.org"
+},
         "@context": "https://w3id.org/openbadges/v2",
         "criteria": {
             "@context": "https://w3id.org/openbadges/v2",
